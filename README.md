@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Lukskks
-- 👀 I’m interested on things 
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me idk sowwy
-- 😄 Pronouns: any pronoun
-- ⚡ Fun fact: i am autistic
+I don't have that much to talk about me sowwy...
 
 <!---
 Lukskks/Lukskks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
